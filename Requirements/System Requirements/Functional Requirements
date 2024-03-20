@@ -3,3 +3,17 @@ Functional Requirements:
 3.2. Users should be able to select a profile/role and be granted access based on their assigned roles to prevent access to unauthorized access to sensitive information or functionalities.
 3.3. Administrators should have the capability to temporarily suspend or permanently revoke access privileges for user roles, ensuring compliance and security.
 3.4. Administrators should be able to search for users using certain filters like role to make finding and retreiving information of user easier.
+
+4.1. the system should provide searchable database of books categories , , genres , and authors 
+4.2. Manager should be able to  filter books by multiple criteria, including genre, author, publication date, and format.
+4.3. The system shall support the addition of new categories and classifications by administrators, with the ability to assign books to multiple categories.v
+
+5.1. The system shall maintain a centralized inventory database that updates in real-time to reflect changes in stock levels.
+5.2. Users shall have the ability to view detailed information about each book, including availability status, price, and format.
+5.3. The system shall allow users to add items to their shopping carts, adjust quantities, and proceed with a secure checkout process
+5.4. Administrators shall have access to tools for updating inventory levels, managing orders, processing returns, and generating sales reports.
+
+6.1. The system shall analyze sales data and user ratings to identify best-selling books and trending titles.
+6.2. A dedicated section of the website shall display best seller categories, showcasing top-performing books based on predefined metrics.
+6.3. The system shall regularly update the best seller categories to reflect current trends and user preferences.
+6.4. Users shall have the option to filter search results by best-selling books within specific categories or genres.

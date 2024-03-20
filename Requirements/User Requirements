@@ -1,6 +1,6 @@
 User Requirements:
 1. The software shall keep track of the books supplied to the BookStore and their cost 
-2. The customers shall select and purchase the books.
+2. The customers shall search, select and purchase the books.
 3. There must be different access levels for different user roles. Admins should have full access to user information and management, while other staff may have restricted access to specific functionalities.
 4. 
 5. 

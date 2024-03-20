@@ -1,1 +1,5 @@
-Functional Requirements
+Functional Requirements:
+2.1. Administrators should have the ability to define permissions, restrictions, and acceess rights for each user role in the system.
+2.2. Users should be able to select a profile/role and be granted access based on their assigned roles to prevent access to unauthorized access to sensitive information or functionalities.
+2.3. Administrators should have the capability to temporarily suspend or permanently revoke access privileges for user roles, ensuring compliance and security.
+2.4. Administrators should be able to search for users using certain filters like role to make finding and retreiving information of user easier.

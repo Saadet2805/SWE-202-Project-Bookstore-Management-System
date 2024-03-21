@@ -1,11 +1,17 @@
 Functional Requirements:
-1.1 Search Functionality
+
+1.1 the software will keep track of the supplier name, bookname, author name, and amount of books bought
+1.2 the software will also keep track of the original price of the book and price the book was actually bought
+1.3 the software will update the stock by the number of books supplied 
+1.4 the software will keep track of the expenses after the store is supplied 
+
+2.1 Search Functionality
 Customers can search for books by title, author, genre, or keyword.Search results should be accurate and relevant to the customer's query.
-1.2 Book Selection and Shopping Cart
+2.2 Book Selection and Shopping Cart
 Customers can select desired books from search results or browse categories.Selected books are added to a shopping cart for review and checkout.
-1.3 Checkout Process
+2.3 Checkout Process
 Customers can proceed to checkout after selecting books.The checkout process should be straightforward, with clear steps for entering payment and shipping information.
-1.4 Order Confirmation
+2.4 Order Confirmation
 Customers receive confirmation of their purchase after completing the checkout process.The system generates an order summary and provides a confirmation email to the customer.
 
 3.1. Administrators should have the ability to define permissions, restrictions, and acceess rights for each user role in the system.

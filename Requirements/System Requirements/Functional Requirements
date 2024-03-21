@@ -17,3 +17,8 @@ Functional Requirements:
 6.2. A dedicated section of the website shall display best seller categories, showcasing top-performing books based on predefined metrics.
 6.3. The system shall regularly update the best seller categories to reflect current trends and user preferences.
 6.4. Users shall have the option to filter search results by best-selling books within specific categories or genres.
+
+7.1 The system shall provide the user with an email and/or phone number of the bookstore as a form of contact.
+7.2 The system shall provide textboxs where the user can submit their feedback.
+7.3 The system shall provide to administrators and managers a dedicated section where users feedback is displayed, the option to select a specific feedback and the ability to response to the user
+

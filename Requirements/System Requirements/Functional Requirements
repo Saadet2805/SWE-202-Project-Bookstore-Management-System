@@ -1,4 +1,13 @@
 Functional Requirements:
+1.1 Search Functionality
+Customers can search for books by title, author, genre, or keyword.Search results should be accurate and relevant to the customer's query.
+1.2 Book Selection and Shopping Cart
+Customers can select desired books from search results or browse categories.Selected books are added to a shopping cart for review and checkout.
+1.3Checkout Process
+Customers can proceed to checkout after selecting books.The checkout process should be straightforward, with clear steps for entering payment and shipping information.
+1.4Order Confirmation
+Customers receive confirmation of their purchase after completing the checkout process.The system generates an order summary and provides a confirmation email to the customer.
+
 3.1. Administrators should have the ability to define permissions, restrictions, and acceess rights for each user role in the system.
 3.2. Users should be able to select a profile/role and be granted access based on their assigned roles to prevent access to unauthorized access to sensitive information or functionalities.
 3.3. Administrators should have the capability to temporarily suspend or permanently revoke access privileges for user roles, ensuring compliance and security.

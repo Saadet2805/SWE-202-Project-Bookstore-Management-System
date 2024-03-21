@@ -4,3 +4,19 @@ Non-functional Requirements
 3. Data integrity shall be ensured through regular backups and redundancy measures to prevent data loss in case of system failures.
 4. Access to user data and administrative features shall be restricted based on role-based access controls to prevent unauthorized access.
 5. The process of users feedback submition and the display of those feedback in the designated section shall be done within 10seconds 
+
+6.Search Functionality
+Customers can search for books by title, author, genre, or keyword.
+Search results should be accurate and relevant to the customer's query.
+
+7.Book Selection and Shopping Cart
+Customers can select desired books from search results or browse categories.
+Selected books are added to a shopping cart for review and checkout.
+
+8.Checkout Process
+Customers can proceed to checkout after selecting books.
+The checkout process should be straightforward, with clear steps for entering payment and shipping information.
+
+9.Order Confirmation
+Customers receive confirmation of their purchase after completing the checkout process.
+The system generates an order summary and provides a confirmation email to the customer.

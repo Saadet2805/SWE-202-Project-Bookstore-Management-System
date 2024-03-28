@@ -18,7 +18,8 @@ Customers receive confirmation of their purchase after completing the checkout p
 3.2. Users should be able to select a profile/role and be granted access based on their assigned roles to prevent access to unauthorized access to sensitive information or functionalities.
 3.3. Administrators should have the capability to temporarily suspend or permanently revoke access privileges for user roles, ensuring compliance and security.
 3.4. Administrators should be able to search for users using certain filters like role to make finding and retreiving information of user easier.
-3.5. The system shall maintain comprehensive audit logs of user activities, including login attempts, access requests, and modifications to permissions and access rights.
+3.5. The system must keep detailed records of user actions, such as logging in, requesting access, and changing permissions.
+
 
 4.1. the system should provide searchable database of books categories , , genres , and authors 
 4.2. Manager should be able to  filter books by multiple criteria, including genre, author, publication date, and format.

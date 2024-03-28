@@ -22,7 +22,8 @@ Customers receive confirmation of their purchase after completing the checkout p
 
 4.1. the system should provide searchable database of books categories , , genres , and authors 
 4.2. Manager should be able to  filter books by multiple criteria, including genre, author, publication date, and format.
-4.3. The system shall support the addition of new categories and classifications by administrators, with the ability to assign books to multiple categories.v
+4.3. The system shall support the addition of new categories and classifications by administrators, with the ability to assign books to multiple categories.
+4.4. The system shall incorporate a recommendation engine to suggest books to customers based on their browsing history, preferences, and past purchases.
 
 5.1. The system shall maintain a centralized inventory database that updates in real-time to reflect changes in stock levels.
 5.2. Users shall have the ability to view detailed information about each book, including availability status, price, and format.

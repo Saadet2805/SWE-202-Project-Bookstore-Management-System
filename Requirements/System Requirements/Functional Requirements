@@ -39,4 +39,4 @@ Customers receive confirmation of their purchase after completing the checkout p
 7.1 The system shall provide the user with an email and/or phone number of the bookstore as a form of contact.
 7.2 The system shall provide textboxs where the user can submit their feedback.
 7.3 The system shall provide to administrators and managers a dedicated section where users feedback is displayed, the option to select a specific feedback and the ability to response to the user
-
+7.4 The system shall include analytics tools to aggregate and analyze user feedback data, identifying trends, common issues, and areas for improvement.

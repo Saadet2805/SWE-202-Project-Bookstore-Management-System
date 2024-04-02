@@ -28,10 +28,10 @@ The system shall continuously monitor the availability of books in the inventory
 4.4. The system shall incorporate a recommendation engine to suggest books to customers based on their browsing history, preferences, and past purchases.
 
 5.1. The system shall maintain a centralized inventory database that updates in real-time to reflect changes in stock levels.
-5.2. Users shall have the ability to view detailed information about each book, including availability status, price, and format.
-5.3. The system shall allow users to add items to their shopping carts, adjust quantities, and proceed with a secure checkout process
+5.2. Customers shall have the ability to view detailed information about each book, including availability status, price, and format.
+5.3. The system shall allow customers to add items to their shopping carts, adjust quantities, and proceed with a secure checkout process
 5.4. Administrators shall have access to tools for updating inventory levels, managing orders, processing returns, and generating sales reports.
-5.5. The system shall implement user authentication and authorization mechanisms to ensure secure access to user-specific functionalities and data.
+5.5. The system shall implement customers authentication and authorization mechanisms to ensure secure access to customer-specific functionalities and data. 
 
 6.1. The system shall analyze sales data and user ratings to identify best-selling books and trending titles.
 6.2. A dedicated section of the website shall display best seller categories, showcasing top-performing books based on predefined metrics.

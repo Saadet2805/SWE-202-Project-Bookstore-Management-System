@@ -7,12 +7,12 @@ Functional Requirements:
 
 2.1 Book Selection and Shopping Cart
 Customers can select desired books from search results or browse categories.Selected books are added to a shopping cart for review and checkout.
-2.2 Checkout Process
-Customers can proceed to checkout after selecting books.The checkout process should be straightforward, with clear steps for entering payment and shipping information.
+2.2 Inventory Management: 
+The system shall continuously monitor the availability of books in the inventory. Upon a successful purchase, the system shall update the inventory by decrementing the quantity of purchased books to reflect the current stock levels accurately.
 2.3 Order Confirmation: 
 Upon completion of the checkout process, the system shall automatically generate an order summary and send a confirmation email to the customer, providing details of their purchase.
-2.4 Inventory Management: 
-The system shall continuously monitor the availability of books in the inventory. Upon a successful purchase, the system shall update the inventory by decrementing the quantity of purchased books to reflect the current stock levels accurately.
+2.4 Checkout Process
+Customers can proceed to checkout after selecting books.The checkout process should be straightforward, with clear steps for entering payment and shipping information.
 
 3.1. Administrators should have the ability to define permissions, restrictions, and access rights for each user role in the system.
 3.2. Users should be able to select a profile/role and be granted access based on their assigned roles to prevent access to unauthorized access to sensitive information or functionalities.

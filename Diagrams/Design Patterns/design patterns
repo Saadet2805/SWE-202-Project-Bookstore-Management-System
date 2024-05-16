@@ -1,0 +1,14 @@
+The Singleton pattern is used for the InventoryManager to ensure that only one instance of this class exists throughout the system. 
+This prevents errors from multiple instances trying to manage the inventory simultaneously and provides a simple, 
+globally accessible way to handle inventory operations. 
+By using a private constructor and a static method (getInstance()), the pattern guarantees that the same 
+InventoryManager instance is used everywhere in the system.
+
+The Builder pattern is used to construct complex objects step by step.
+In our system, it helps create Book objects with various attributes (like title, author, price)
+in a controlled and readable manner.
+By using a BookBuilder class, we can easily set specific attributes and then generate the final Book object,
+ensuring clarity and flexibility in object creation.
+
+. By using the Factory Method Pattern, this factory can generate the appropriate user roles 
+based on input parameters, ensuring flexibility and ease of maintenance as the system evolves.
